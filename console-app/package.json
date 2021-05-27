@@ -14,7 +14,7 @@
     "graphql-tag": "^2.10.1",
     "handlebars": "^4.7.6",
     "interactjs": "^1.10.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "react": "^16.5.0",
     "react-calendar-timeline": "^0.27.0",
