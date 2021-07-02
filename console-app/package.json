@@ -12,7 +12,7 @@
     "aws-amplify-react": "^4.2.7",
     "email-validator": "^2.0.4",
     "graphql-tag": "^2.10.1",
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.7.7",
     "interactjs": "^1.10.2",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
